@@ -11,7 +11,7 @@ This is a model developed for Data mining summative assignment.
    ```
    2.Then Run the streamlit app on your terminal using the following command:
 ```
-streamlit run mian.py
+streamlit run main.py
 ```
 
  **NB: Make sure you have all the neccessary files before deploying the model.**
